@@ -10,8 +10,8 @@ The UI was generated and refined using the Figma AI tools and exported as a Reac
 - Radix UI + custom components
 - Recharts for charts
 
-![readme](assets/showcase2.png)
-![readme](assets/showcase1.png)
+![readme](assets/build/showcase2.png)
+![readme](assets/build/showcase1.png)
 
 ## Running locally
 
