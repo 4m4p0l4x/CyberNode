@@ -19,7 +19,7 @@ Thumbs.db
 *.swp
 *.swo
 
-# Env (por si en el futuro agregas variables)
+# Env 
 .env
 .env.*
 
